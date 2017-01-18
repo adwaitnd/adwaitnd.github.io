@@ -1,5 +1,5 @@
 ---
-title: intro-test-post
+title: Introductory Test Post
 layout: post
 ---
 
