@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : *name
+  name             : "Adwait Dongare"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Some description of me"
+  bio              : "I'm currently a Ph.D. candidate at Carnegie Mellon University"
   location         : "Pittburgh Pennsylvania, USA"
   email            :
   uri              :
