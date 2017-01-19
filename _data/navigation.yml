@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /
   - title: "Research"
-    url: /year-archive/
+    url: /research/
   - title: "Hobbies"
-    url: /collection-archive/
+    url: /hobbies/
   - title: "Blog"
-    url: /sitemap/
+    url: /blog/

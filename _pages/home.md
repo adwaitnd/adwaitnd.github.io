@@ -2,7 +2,7 @@
 title: "About me"
 layout: single
 author_profile: true
-permalink: index.html
+permalink: /
 ---
 
 Add details about me here later
