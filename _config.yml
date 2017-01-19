@@ -111,6 +111,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -240,7 +241,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: # true
+      read_time: false # true
+      comments: false # true
+      share: false # true
       related: true
