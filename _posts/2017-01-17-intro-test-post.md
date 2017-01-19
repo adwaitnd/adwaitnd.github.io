@@ -1,6 +1,6 @@
 ---
 title: Introductory Test Post
-layout: posts
+layout: single
 ---
 
 # Intro post
