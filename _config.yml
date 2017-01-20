@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Adwait Dongare"
   avatar           : "/assets/images/adwait-bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm currently a Ph.D. candidate at Carnegie Mellon University"
+  bio              : "Ph.D. candidate at Carnegie Mellon University. Curious about almost everything."
   location         : "Pittburgh Pennsylvania, USA"
   email            :
   uri              :
@@ -173,9 +173,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -245,3 +245,10 @@ defaults:
       comments: false # true
       share: false # true
       related: true
+      # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

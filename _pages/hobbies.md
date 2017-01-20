@@ -2,7 +2,7 @@
 title: "Research"
 layout: single
 author_profile: true
-permalink: /research/
+permalink: /hobbies/
 ---
 
-I'll write about some of my research work here later...
+I'll write about some of my hobbies here later...
