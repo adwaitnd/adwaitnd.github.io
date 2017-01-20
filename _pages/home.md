@@ -1,5 +1,5 @@
 ---
-title: "About Adwait Dongare"
+title: "About me"
 layout: single
 author_profile: true
 permalink: /
@@ -15,4 +15,4 @@ In the summer of 2015, I spent some time at Apple programming firmware for phone
 
 Before CMU, I finished my B.Tech. in Engineering Physics at the Indian Institute of Technology, Bombay in 2014. Back then I was building various detectors for physics experiments. I spent a lot of my spare time building electronics projects; including developing the electronic systems of an electric race car for the [IIT-Bombay Racing Team](http://www.iitbracing.org/). They do some fantastic work, so go cheer for them!
 
-Find my resume [here](/assets/docs/resume.pdf)
+Find my resume [here](/assets/docs/resume.pdf).
