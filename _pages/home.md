@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Adwait Dongare"
 layout: single
 author_profile: true
 permalink: /
