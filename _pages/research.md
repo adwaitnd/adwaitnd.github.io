@@ -30,6 +30,6 @@ I am currently interested in the following areas of research:
 
 ### Demos
 
-- **Demo Abstract: Propagation-Aware Time Synchronization for Indoor Applications**  
+- **Demo Abstract: Propagation-Aware Time Synchronization for Indoor Applications** [[link](http://dl.acm.org/citation.cfm?id=2996528)]  
     Adwait Dongare, and Anthony Rowe.  
     *In Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems*, pp. 292-293. ACM, 2016
