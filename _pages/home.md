@@ -9,7 +9,7 @@ Hello there!
 
 I am pursuing a Ph.D. in Electrical and Computer Engineering at [Carnegie Mellon University](http://ece.cmu.edu) since August 2014. I work with [WiSELab](http://wise.ece.cmu.edu/) and am advised by Prof. Anthony Rowe.
 
-I am currently interested in research on Time Synchronization, Embedded Systems and Wireless Networks. You can find more information about these topics and about my work in the [research](/research/) section.
+I am currently interested in research on Time Synchronization, Embedded Systems and Wireless Networks. You can find more information about these topics, about my work and my publications in the [research](/research/) section.
 
 In the summer of 2015, I spent some time at Apple programming firmware for phones and wearables. Firmware is simple low-level software that works very closely with hardware.
 
