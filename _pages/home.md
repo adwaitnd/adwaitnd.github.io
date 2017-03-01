@@ -17,4 +17,4 @@ Before CMU, I finished my B.Tech. in Engineering Physics at the Indian Institute
 
 I spent a summer interning at Forschüngzentrum Jülich, Jülich, Germany in 2013 working on the PANDA experiment and another one at the Max Planck Institute for Gravitational Physics, Hannover, Germany in 2012 working on the GEO-600 detector.
 
-Find my resume [here](/assets/docs/resume.pdf).
+Find my CV [here](/assets/docs/resume.pdf).

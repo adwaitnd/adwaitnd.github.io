@@ -25,13 +25,15 @@ I am currently interested in the following areas of research:
     Fatima Anwar, Sandeep D’souza, Andrew Symington, Adwait Dongare, Ragunathan Rajkumar, Anthony Rowe, and Mani Srivastava.  
     *In Real-Time Systems Symposium (RTSS), 2016 IEEE*, pp. 191-202. IEEE, 2016  
 
-    We introduce the Timeline abstraction to Linux to simplify device synchronization and development of real-time applications
+    We introduce the Timeline abstraction to Linux to simplify device synchronization and development of real-time applications.
 
 ### Workshops
 
 - *(Expected to Appear)* **OpenChirp: A Low-Power Wide-Area Networking Architecture**  
     Adwait Dongare, Craig Hesling, Khushboo Bhatia, Artur Balanuta, Ricardo Lopes Pereira, Bob Iannucci and Anthony Rowe  
-    *In First International Workshop on Smart Edge Computing and Networking (SmartEdge), 2017 IEEE*
+    *In First International Workshop on Smart Edge Computing and Networking (SmartEdge), 2017 IEEE*  
+
+    We describe the architecture of a Low-Power Wide Area Network (LPWAN) named OpenChirp and the early experience in deploying it around CMU and Pittsburgh.
 
 ### Demos
 
