@@ -15,12 +15,17 @@ I am currently interested in the following areas of research:
 
 ### Conferences
 
-- *(Submitted)* **Pulsar: A Wireless Propagation-Aware Clock Synchronization Platform**  
-    Adwait Dongare, Patrick Lazik, Niranjini Rajagopal and Anthony Rowe
+- *(Expected to Appear)* **Pulsar: A Wireless Propagation-Aware Clock Synchronization Platform**  
+    Adwait Dongare, Patrick Lazik, Niranjini Rajagopal and Anthony Rowe  
+    *In Real-Time and Embedded Technology and Applications Symposium (RTAS)*  
+
+    We design and evaluate a wireless clock synchronization system called Pulsar that achieves better than 5 nanosecond accuracy using a combination of an ultra-wideband (UWB) radio and a chip-scale atomic clock (CSAC). We expect it to have direct applications in next-generation wireless systems that target high scalability.
 
 - **Timeline: An Operating System Abstraction for Time-Aware Applications** [[link](http://ieeexplore.ieee.org/document/7809855/)]  
     Fatima Anwar, Sandeep D’souza, Andrew Symington, Adwait Dongare, Ragunathan Rajkumar, Anthony Rowe, and Mani Srivastava.  
-    *In Real-Time Systems Symposium (RTSS), 2016 IEEE*, pp. 191-202. IEEE, 2016
+    *In Real-Time Systems Symposium (RTSS), 2016 IEEE*, pp. 191-202. IEEE, 2016  
+
+    We introduce the Timeline abstraction to Linux to simplify device synchronization and development of real-time applications
 
 ### Workshops
 
