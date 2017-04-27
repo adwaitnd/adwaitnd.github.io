@@ -21,8 +21,8 @@ I am currently interested in the following areas of research:
     Adwait Dongare, Patrick Lazik, Niranjini Rajagopal and Anthony Rowe  
     *In Real-Time and Embedded Technology and Applications Symposium (RTAS),  2017 at Pittsburgh, Pennsylvania, USA*    
 
-    <span style="color:red">*Won the best presentation award at RTAS 2017*</span>  
-    We design and evaluate a wireless clock synchronization system called Pulsar that achieves better than 5 nanosecond accuracy using a combination of an ultra-wideband (UWB) radio and a chip-scale atomic clock (CSAC). We expect it to have direct applications in next-generation wireless systems that target high scalability.
+    We design and evaluate a wireless clock synchronization system called Pulsar that achieves better than 5 nanosecond accuracy using a combination of an ultra-wideband (UWB) radio and a chip-scale atomic clock (CSAC). We expect it to have direct applications in next-generation wireless systems that target high scalability.  
+    <span style="color:red">*Won the best presentation award at RTAS 2017*</span>
 
 - <a name="timeline-rtss2016"></a>
     **Timeline: An Operating System Abstraction for Time-Aware Applications**  
@@ -44,7 +44,7 @@ I am currently interested in the following areas of research:
 
 ### Demos
 
-- <a name="pulsar-sensys2016"></a>
+- <a name="pulsar-sensys2017"></a>
     **Demo Abstract: Propagation-Aware Time Synchronization for Indoor Applications**  
     [[link](http://dl.acm.org/citation.cfm?id=2996528)]  
     Adwait Dongare, and Anthony Rowe.  
