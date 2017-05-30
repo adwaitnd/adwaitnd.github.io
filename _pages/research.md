@@ -44,7 +44,7 @@ I am currently interested in the following areas of research:
 
 ### Demos
 
-- <a name="pulsar-sensys2017"></a>
+- <a name="pulsar-sensys2016"></a>
     **Demo Abstract: Propagation-Aware Time Synchronization for Indoor Applications**  
     [[link](http://dl.acm.org/citation.cfm?id=2996528)]  
     Adwait Dongare, and Anthony Rowe.  

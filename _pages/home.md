@@ -11,6 +11,8 @@ I am pursuing a Ph.D. in Electrical and Computer Engineering at [Carnegie Mellon
 
 I am currently interested in research on Time Synchronization, Embedded Systems and Wireless Networks. You can find more information about these topics, about my work and my publications in the [research](/research/) section.
 
+I will be spending this summer (2017) interning with Kilby Labs at Texas Instruments in Dallas, Texas. I will be exploring the use of a new clock system in their Bluetooth radio chips.
+
 In the summer of 2015, I spent some time at Apple programming firmware for phones and wearables. Firmware is simple low-level software that works very closely with hardware.
 
 Before CMU, I finished my B.Tech. in Engineering Physics at the Indian Institute of Technology, Bombay in 2014. Back then I was building detectors for physics experiments. I spent a lot of my spare time on electronics projects; including developing the electronic systems of an electric race car for the [IIT-Bombay Racing Team](http://www.iitbracing.org/). They do some fantastic work, so go cheer for them!
