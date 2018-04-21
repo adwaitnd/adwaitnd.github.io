@@ -19,7 +19,9 @@ I am currently interested in the following areas of research:
 - <a name="charm-ipsn2018"></a>
     **Charm: Exploiting Geographical Diversity Through Coherent Combining in Low-Power Wide-Area Networks**  
     Adwait Dongare, Revathy Narayanan, Akshay Gadre, Anh Luong, Artur Balanuta, Swarun Kumar, Bob Iannucci, and Anthony Rowe
-    *In the International Conference on Information Processing in Sensor Networks (IPSN), 2018 at Porto, Portugal* 
+    *In the International Conference on Information Processing in Sensor Networks (IPSN), 2018 at Porto, Portugal*
+    
+    Add description later.  
     <span style="color:red">*Won the best paper award at IPSN 2018*</span>
 
 
@@ -53,13 +55,13 @@ I am currently interested in the following areas of research:
 ### Demos
 
 - <a name="openchirp-ipsn2018"></a>
-    **Demo Abstract: The OpenChirp Low-Power Wide-Area Network and Ecosystem**
+    **The OpenChirp Low-Power Wide-Area Network and Ecosystem**
     [[link](http://dl.acm.org/citation.cfm?id=3207976)]  
     Adwait Dongare, Anh Luong, Artur Balanuta, Craig Hesling, Khushboo Bhatia, Bob Iannucci, Swarun Kumar, and Anthony Rowe  
     *In Proceedings of the 17th ACM/IEEE International Conference on Information Processing in Sensor Networks*, pp. 138-139. IEEE Press, 2018.
 
 - <a name="pulsar-sensys2016"></a>
-    **Demo Abstract: Propagation-Aware Time Synchronization for Indoor Applications**  
+    **Propagation-Aware Time Synchronization for Indoor Applications**  
     [[link](http://dl.acm.org/citation.cfm?id=2996528)]  
     Adwait Dongare, and Anthony Rowe.  
     *In Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems at Stanford, California, USA*, pp. 292-293. ACM, 2016

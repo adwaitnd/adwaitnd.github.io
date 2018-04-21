@@ -33,3 +33,5 @@ This one below on a writing pad (from Staples?)
 The writing pad loves to absorb ink so much that the ink bleeds to the back of the page, and often the next page. Writing on it extremely satisfying though. Unfortunately, the printing paper has too much friction and is not as fun (only a pencil or ball point would work for it).
 
 Any other fountain pens I should try out? I saw a few with retractable nibs and I wonder if they're nice to write with (albeit expensive).
+
+*Update (April 2018): I've lost all of these except for the Hero 332. The Schneider iD was lost on a conference trip to Hawaii, the Pilot Metro was lost in a Dallas bus and the Lamy Al-Star probably dropped out of my pocket while riding my bike. But I've got some new ones now (I may write about them soon), and they're as fun and happy as these ones were*
