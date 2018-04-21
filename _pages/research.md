@@ -7,13 +7,21 @@ permalink: /research/
 
 I am currently interested in the following areas of research:
 
+- [Wireless Networks](https://en.wikipedia.org/wiki/Wireless): How can we communicate useful information using radio transmissions, in the most efficient form, and using the simplest mechanisms?
+- [Wireless Sensing](https://en.wikipedia.org/wiki/Remote_sensing): How can we identify and track changes in our physical environment by observing it from afar?
 - [Time Synchronization](https://en.wikipedia.org/wiki/Synchronization): How do we get many entities to agree on what the time is and have them work together? I look at what can we do with cutting-edge devices that keep very precise time. Further, I also study what we can do with very inexpensive devices that keep inaccurate time.
 - [Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system): How can we design and use tiny computers that can be a part of us and our environment?
-- [Wireless Networks](https://en.wikipedia.org/wiki/Wireless): How can we communicate useful information using radio transmissions, in the most efficient form, and using the simplest mechanisms?
 
 ## Publications
 
 ### Conferences
+
+- <a name="charm-ipsn2018"></a>
+    **Charm: Exploiting Geographical Diversity Through Coherent Combining in Low-Power Wide-Area Networks**  
+    Adwait Dongare, Revathy Narayanan, Akshay Gadre, Anh Luong, Artur Balanuta, Swarun Kumar, Bob Iannucci, and Anthony Rowe
+    *In the International Conference on Information Processing in Sensor Networks (IPSN), 2018 at Porto, Portugal* 
+    <span style="color:red">*Won the best paper award at IPSN 2018*</span>
+
 
 - <a name="pulsar-rtas2017"></a>
     **Pulsar: A Wireless Propagation-Aware Clock Synchronization Platform**  
@@ -43,6 +51,12 @@ I am currently interested in the following areas of research:
     We describe the architecture of a Low-Power Wide Area Network (LPWAN) named OpenChirp and the early experience in deploying it around CMU and Pittsburgh.
 
 ### Demos
+
+- <a name="openchirp-ipsn2018"></a>
+    **Demo Abstract: The OpenChirp Low-Power Wide-Area Network and Ecosystem**
+    [[link](http://dl.acm.org/citation.cfm?id=3207976)]  
+    Adwait Dongare, Anh Luong, Artur Balanuta, Craig Hesling, Khushboo Bhatia, Bob Iannucci, Swarun Kumar, and Anthony Rowe  
+    *In Proceedings of the 17th ACM/IEEE International Conference on Information Processing in Sensor Networks*, pp. 138-139. IEEE Press, 2018.
 
 - <a name="pulsar-sensys2016"></a>
     **Demo Abstract: Propagation-Aware Time Synchronization for Indoor Applications**  
