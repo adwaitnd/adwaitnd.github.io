@@ -18,8 +18,11 @@ I am currently interested in the following areas of research:
 
 - <a name="charm-ipsn2018"></a>
     **Charm: Exploiting Geographical Diversity Through Coherent Combining in Low-Power Wide-Area Networks**  
-    Adwait Dongare, Revathy Narayanan, Akshay Gadre, Anh Luong, Artur Balanuta, Swarun Kumar, Bob Iannucci, and Anthony Rowe
-    *In the International Conference on Information Processing in Sensor Networks (IPSN), 2018 at Porto, Portugal* 
+    [[slides](/assets/docs/charm-slides-ipsn18.pdf)]  [[pdf](/assets/docs/charm-ipsn18.pdf)]  
+    Adwait Dongare, Revathy Narayanan, Akshay Gadre, Anh Luong, Artur Balanuta, Swarun Kumar, Bob Iannucci, and Anthony Rowe.  
+    *In the International Conference on Information Processing in Sensor Networks (IPSN), 2018 at Porto, Portugal*  
+
+    We design a system for LoRa low-power wide-area networks, that combines weak radio transmissions at multiple gateway receivers and coherently combines the signals to decode the underlying data. This system improves the coverage of the network and allows wireless devices to communicate at higher data rates, which results in more battery life.  
     <span style="color:red">*Won the best paper award at IPSN 2018*</span>
 
 
