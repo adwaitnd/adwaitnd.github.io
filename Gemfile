@@ -10,3 +10,4 @@ group :jekyll_plugins do
   gem "jemoji"
 end
 
+gem "jekyll-compose", group: [:jekyll_plugins]
