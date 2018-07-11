@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Portuguese cod with shredded potatoes
 date: 2018-07-11 08:33 -0400
 tags: cooking
