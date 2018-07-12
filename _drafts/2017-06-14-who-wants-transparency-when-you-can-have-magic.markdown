@@ -1,6 +1,6 @@
 ---
 title: Who wants transparency when you can have magic?
-layout: posts
+layout: single
 ---
 
 What this post is about:
