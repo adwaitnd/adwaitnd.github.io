@@ -12,6 +12,10 @@ My final object is to run the `gnuradio-companion` GUI through a docker containe
 Why bother?  
 Because GNURadio loves to muck up the entire system regardless of the OS used. It also doesn't like to live in non-standard directories (most tools then fail to run) which leaves out the option os a parallel install. So containerization is probably the right option :-/
 
+[Running GUI apps with Docker - Somatorio (Nov 2018)](http://somatorio.org/en/post/running-gui-apps-with-docker/)
+
+[Docker Containers on the Desktop - Jess Frazelle (Nov 2018)](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/)
+
 Here was my timeline
 
 1. Check if there is a `gnuradio` docker image available.  
