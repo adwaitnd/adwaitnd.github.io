@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Working with Docker containers
 date: 2018-11-25 17:46 -0500
 ---
