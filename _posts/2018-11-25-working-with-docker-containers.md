@@ -22,6 +22,14 @@ Here was my timeline
 I checked available images with `docker search gnuradio` and found `marcelmaatkamp/gnuradio` to be a promising option
 1.
 
+## What finally worked
+
+    docker run -e DISPLAY=host.docker.internal:0 --entrypoint gnuradio-companion -it marcelmaatkamp/gnuradio
+
+*Notes:*
+
+- The -t flag is not necessarily required but gives GNURadio debugging outputs
+
 ## Check which docker images are installed
     docker images
 
@@ -68,19 +76,19 @@ docker run --rm -it --entrypoint=/bin/bash name-of-image
 
 The rm flag automatically removes the container after it exits
 
-Taking a snapshot of a container
+## Taking a snapshot of a container
 
-# find ID of your running container:
-docker ps
+    # find ID of your running container:
+    docker ps -a
 
-# create image (snapshot) from container filesystem
-    docker commit 12345678904b5 mysnapshot
+    # create image (snapshot) from container filesystem
+        docker commit 12345678904b5 mysnapshot
 
-# explore this filesystem using bash (for example)
-    docker run -t -i mysnapshot /bin/bash
+    # explore this filesystem using bash (for example)
+        docker run -t -i mysnapshot /bin/bash
 
-# remove snapshot after we’re done
-    docker rmi mysnapshot
+    # remove snapshot after we’re done
+        docker rmi mysnapshot
 
 
 # docker exec
