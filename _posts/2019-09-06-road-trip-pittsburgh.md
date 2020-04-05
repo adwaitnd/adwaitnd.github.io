@@ -1,11 +1,14 @@
 ---
-layout: post
+layout: single
 title: Road trip back to Pittsburgh
 date: 2019-09-06 13:10 -0400
 ---
 
-I drove back to Pittsburgh after my internship at Apple in the Bay Area from August 25 to 31, 2019. Here are some interesting parts of that journey.
+I decided to drive to California for my internship this summer because I wanted to have a car while in the Bay Area. I also decided to drive it back because I like long drives. While the trip to California was fairly quick and uneventful, I planned out the return trip to be a bit more fun.
 
+After much contemplation about how to write this down, I'm going to try my best using just text and a photo album with descriptions. I'll rant about how limiting Google Photos is later on; just thinking about it makes me angry >:(
+
+A drive from The San Fransisco Bay area to Pittsburgh is at least 40 hours along. I planned my way through the southern route, which goes south to Las Vegas and Arizona, then up to Utah and Colorado and finally west through Kansas, Indiana and Ohio. Why such a weird route? Because there are quite a few National Parks along this way. 
 
 ## Day 1: Drive through Death Valley
 
