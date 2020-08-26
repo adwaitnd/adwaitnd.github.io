@@ -14,6 +14,10 @@ I am currently interested in the following areas of research:
 
 ## Publications
 
+### Thesis
+
+The thesis for my PhD in Electrical and Computer Engineering at CMU can be found [here](/assets/docs/Dongare-thesis.pdf). A quick explanation of my work is coming soon.
+
 ### Conferences
 
 - <a name="charm-ipsn2018"></a>
