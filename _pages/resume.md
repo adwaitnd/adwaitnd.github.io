@@ -15,19 +15,27 @@ Palo Alto, CA | email: FirstNameAbbreviated\+n\+LastName@gmail.com
 
 ## Professional Summary
 
-Technical leader and applied technologist with expertise in wireless sensing, computer vision, and multi-modal sensor fusion. PhD in ECE from Carnegie Mellon with 5+ years shipping production ML and wireless systems at Apple, deployed on 1.5B+ devices. Proven track record of translating research into impact: 3 granted US patents, best paper awards at IPSN and RTAS, and technical leadership of critical product features across iPhone, Apple Watch, and HomePod.
+Applied ML researcher and technical leader with expertise in computer vision, multi-modal sensing, and research-to-product translation. PhD in ECE from Carnegie Mellon with 5+ years leading ML research and deployment at Apple, shipping neural architectures and training pipelines on 1.5B+ devices. Proven track record combining ML innovation with systems thinking: designed hybrid CNN for RF optimization, synthesis-based training for object detection, and secure on-device inference systems. 3 granted US patents, best paper awards at IPSN and RTAS. Deep experience bridging human factors research, ML problem formulation, and production deployment constraints.
+
+## Research Interests
+
+Building foundation models and training pipelines for physical domains beyond language: 3D object perception and manipulation (especially deformable objects and contact-rich tasks), wireless signal processing, and autonomous systems. Particular interest in developing scalable simulation and synthesis-based training infrastructure that can produce generalizable models for robotics and sensing applications. Seeking to explore how multi-modal sensor fusion (vision, force/tactile, wireless) can enable more robust representations for real-world physical interactions and autonomy.
 
 ---
 
 ## Technical Skills
 
-**Wireless Technologies & Protocols:** Ultra-Wideband (UWB), Bluetooth Low Energy (BLE), WiFi, LoRa, Time-of-Flight (ToF), Signal Processing, Coherent Combining, Clock Synchronization
+**Machine Learning & Computer Vision:** Deep learning architectures (CNNs, hybrid models), Synthetic data generation and training pipelines, On-device ML deployment and optimization, Vision-based sensing and 3D object detection, Multi-modal sensor fusion, Human factors research for ML problem formulation
 
-**Computer Vision & Machine Learning:** Vision-based sensing, Sensor fusion, Estimation algorithms, Localization systems
+**ML Frameworks & Tools:** PyTorch, TensorFlow, JAX, CoreML, ONNX, On-device inference optimization, Privacy-preserving ML systems, LLM APIs and agent frameworks, AI-assisted development tools
 
-**Programming & Development:** Embedded systems, Firmware development, iOS/macOS platforms, Low-power systems, Real-time systems
+**Simulation & 3D Tools:** Physics simulation platforms (Isaac Sim, MuJoCo, PyBullet), 3D rendering and scene generation (Blender, Unity), CAD software (Fusion 360, FreeCAD, OpenSCAD), Circuit design (KiCad, EAGLE), Simulation-based training data generation
 
-**Research & Innovation:** 3 granted US patents, Best paper awards (IPSN 2018, RTAS 2017), Distributed systems architecture
+**Wireless Technologies & Protocols:** Ultra-Wideband (UWB), Bluetooth Low Energy (BLE), WiFi, LoRa, Time-of-Flight (ToF), Signal Processing, Coherent Combining, Clock Synchronization, ML for RF performance optimization
+
+**Programming & Development:** Embedded systems, Firmware development, iOS/macOS platforms, Low-power systems, Real-time systems, Secure ML deployment architectures
+
+**Research & Innovation:** 3 granted US patents, Best paper awards (IPSN 2018, RTAS 2017), Distributed systems architecture, Research-to-product translation
 
 ## Work Experience
 
@@ -36,14 +44,24 @@ Technical leader and applied technologist with expertise in wireless sensing, co
 
 **Software Developer** - 2020 - 2023
 
-Technical leader for proximity technologies using vision and wireless sensors, deployed on over 1.5 billion devices:
+Technical leader for ML-driven proximity technologies using vision and wireless sensors, deployed on over 1.5 billion devices:
 
-- **Leading team developing secure and private vision algorithms** for upcoming Apple devices, architecting next-generation sensing capabilities
-- **Led U2 UWB chip software bring-up effort** and architected friend finding and device finding experiences leveraging new chip capabilities
-- **Led team that designed and shipped ML system** to counter RF anomalies in HomePods, enabling successful product launch
-- **Led implementation of deep sleep software architecture** for U2-equipped Apple Watch devices, achieving significant battery life improvements
-- Shipped proximity-based content handoff feature between iPhones and HomePods using multi-modal sensor fusion
-- Technical lead for UWB localization, vision-based proximity detection, and wireless-vision sensor fusion projects
+**Machine Learning Research Leadership:**
+- **Leading vision ML research team** developing neural architectures for on-device 3D object perception on upcoming Apple products; architected synthesis-based training pipeline generating diverse scenarios for known object detection, demonstrating scalability of simulation-driven training approaches
+- **Designed and shipped hybrid CNN architecture** to address RF performance anomalies in HomePod, combining signal processing domain knowledge with deep learning, enabling successful product launch
+- **Led ML-driven gesture detection research** including human factors studies to formulate ML problems, supervised end-to-end development from data collection to deployment
+- **Architected secure and privacy-preserving ML deployment systems** for running multiple inference pipelines efficiently on specialized Apple hardware
+
+**Systems and Wireless Innovation:**
+- **Technical lead for U2 UWB chip software bring-up**, architected friend finding and device finding experiences leveraging new chip capabilities
+- **Implemented deep sleep software architecture** for U2-equipped Apple Watch devices, achieving significant battery life improvements
+- Shipped proximity-based content handoff feature between iPhones and HomePods using multi-modal sensor fusion (vision + wireless)
+- Technical lead for UWB localization and wireless-vision sensor fusion systems
+
+**Generative AI Adoption & Tooling:**
+- **Group champion for generative AI adoption**, led onboarding of team members on AI-assisted development tools (coding assistants, LLM-powered analysis) accelerating team productivity
+- **Built custom AI agents and automation** for debugging workflows and test device setup, reducing manual effort and improving developer velocity
+- Prototyped multiple LLM-powered tools for code analysis and system diagnostics
 
 ### Apple: Cupertino, CA
 **Software Engineering Internship** - Summer 2019
@@ -51,7 +69,7 @@ Technical leader for proximity technologies using vision and wireless sensors, d
 Prototyped scalable localization algorithms using ultra-wideband (UWB) technology. Developed critical algorithms that evolved into two granted patents for UWB synchronization and localization techniques.
 
 ### Texas Instruments: Dallas, TX
-**Design Engineering Internship** - Summer 2019
+**Design Engineering Internship** - Summer 2017
 
 Benchmarking new oscillator technology for microcontrollers with integrated radios
 
@@ -68,21 +86,28 @@ System firmware for low-power co-processors on iOS and watchOS devices.
 Thesis: A distributed reception architecture for low-power wide-area networks.
 Advised by Prof. Anthony Rowe
 
+*Relevant Coursework:* Graduate Artificial Intelligence (game theory, planning, neural networks), Introduction to Machine Learning (kernel methods, Bayesian inference, neural networks)
+
+### Stanford University (Professional Education)
+**Reinforcement Learning** - Completed post-PhD
+
 ### Indian Institute of Technology Bombay: Mumbai, India
 **BTech in Engineering Physics with minor in Electrical Engineering** - 2010-2014
 
 ## Research Highlights
 
+**Machine Learning Deployment:** Led development of multiple production ML systems deployed on 1.5B+ devices including hybrid CNNs, gesture detection models, and synthesis-based training pipelines; architected privacy-preserving on-device inference systems
+
 **Patents:** 3 granted US patents in UWB synchronization, localization, and wireless networking (2020-2023)
 
-**Publications:** 6 peer-reviewed conference papers including best paper award at IPSN 2018 for "Charm: Exploiting Geographical Diversity Through Coherent Combining in Low-Power Wide-Area Networks"
+**Publications:** 6 peer-reviewed conference papers including best paper award at IPSN 2018 for "Charm: Exploiting Geographical Diversity Through Coherent Combining in Low-Power Wide-Area Networks" (distributed signal processing and optimization techniques applicable to modern ML systems and multi-modal sensor fusion)
 
 **Awards:**
 - Best Paper Award - IPSN 2018, Porto, Portugal
 - Best Presentation Award - RTAS 2017, Pittsburgh, Pennsylvania
 - Hsu Chang Memorial Fellowship - Carnegie Mellon University (2016-2017)
 
-**Impact:** Research translated into production systems deployed on 1.5B+ devices; work cited in wireless networking and IoT literature
+**Cross-disciplinary Impact:** PhD research on distributed optimization and signal processing translated to ML systems; production ML work currently under Apple confidentiality
 
 *See detailed publications list at end of resume*
 
@@ -91,12 +116,12 @@ Advised by Prof. Anthony Rowe
 ### WiSeLab, Carnegie Mellon University: Pittsburgh, Pennsylvania
 **PhD Candidate - Advisor: Prof Anthony Rowe** - 2014 - 2020
 
-Low-power wide-area networking, precise time-synchronization for wireless systems, sensor networks and sensor visualization using augmented reality. Developed Charm and Pulsar systems for LoRa networks and wireless synchronization.
+Research on distributed signal processing, optimization, and coherent combining for low-power wide-area networks. Developed Charm system demonstrating distributed reception techniques and Pulsar wireless synchronization framework. Core techniques—distributed optimization, signal fusion, and real-time inference—directly applicable to modern distributed ML systems and multi-modal sensing.
 
 ### DARPA Subterranean Challenge
 **Explorer Team Member - CMU-Oregon State** - 2018 – 2020
 
-Team placed 4th overall and won the tunnel circuit stage. Contributed to autonomous robotics and sensing systems for underground environments.
+Team placed 4th overall and won the tunnel circuit stage. Contributed wireless communication systems enabling multi-robot coordination and localization in GPS-denied underground environments. Worked at the intersection of autonomous systems and wireless networking.
 
 ---
 
