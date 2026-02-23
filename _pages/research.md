@@ -7,16 +7,15 @@ permalink: /research/
 
 I am currently interested in the following areas of research:
 
-- [Wireless Networks](https://en.wikipedia.org/wiki/Wireless): How can we communicate useful information using radio transmissions, in the most efficient form, and using the simplest mechanisms?
+- [TinyML](https://edge.seas.harvard.edu/tinyml): How to build small and efficient machine learning models for very specialized tasks
+- [Foundation models](https://en.wikipedia.org/wiki/Foundation_model) for the physical world: How to build complex artificial intelligence models that can operate on varied data from the real world
 - [Wireless Sensing](https://en.wikipedia.org/wiki/Remote_sensing): How can we identify and track changes in our physical environment by observing it from afar?
-- [Time Synchronization](https://en.wikipedia.org/wiki/Synchronization): How do we get many entities to agree on what the time is and have them work together? I look at what can we do with cutting-edge devices that keep very precise time. Further, I also study what we can do with very inexpensive devices that keep inaccurate time.
 - [Embedded Systems](https://en.wikipedia.org/wiki/Embedded_system): How can we design and use tiny computers that can be a part of us and our environment?
-
 ## Publications
 
 ### Thesis
 
-The thesis for my PhD in Electrical and Computer Engineering at CMU can be found [here](/assets/docs/Dongare-thesis.pdf). A quick explanation of my work is coming soon.
+The thesis for my PhD in Electrical and Computer Engineering at CMU can be found [here](/assets/docs/Dongare-thesis.pdf). I looked at improving the coverage and capabilities of a wireless sensor networks by receiving signals from the same sensor using a distributed system of receivers. We had to use techniques for coherent combining, time synchronization and embedded computing built of top of a low-power wide-area network that we deployed around the city of Pittsburgh and elsewhere.
 
 ### Conferences
 

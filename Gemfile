@@ -1,6 +1,11 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.3"
+gem "csv"
+gem "base64"
+gem "logger"
+gem "webrick"
+gem "faraday-retry"
 
 group :jekyll_plugins do
   gem "jekyll-paginate"
@@ -8,6 +13,6 @@ group :jekyll_plugins do
   gem "jekyll-gist"
   gem "jekyll-feed"
   gem "jemoji"
+  gem "jekyll-include-cache"
+  gem "jekyll-compose"
 end
-
-gem "jekyll-compose", group: [:jekyll_plugins]

@@ -15,3 +15,6 @@ npm-debug.log*
 
 # visual studio files
 .vscode
+
+# Private resume contact information
+resume/metadata-private.yaml

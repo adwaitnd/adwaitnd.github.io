@@ -6,3 +6,13 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Custom styles for resume version control */
+/* Show detailed version, hide concise version */
+.concise {
+  display: none;
+}
+
+.detailed {
+  display: block;
+}

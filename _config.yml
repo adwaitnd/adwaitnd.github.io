@@ -99,8 +99,8 @@ analytics:
 author:
   name             : "Adwait Dongare"
   avatar           : "/assets/images/adwait-bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. candidate at Carnegie Mellon University. Curious about almost everything."
-  location         : "Pittburgh Pennsylvania, USA"
+  bio              : "Senior Software Developer at Apple. Curious about everything."
+  location         : "Palo Alto, California, USA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -110,13 +110,13 @@ author:
   flickr           :
   facebook         : adwaitnd
   foursquare       :
-  github           : adwaitnd
+  github           : # adwaitnd - no activity so I'll remove it for now
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : adwait-dongare-61006491
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -191,6 +191,13 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - if-function
+    - slash-div
+    - color-functions
 
 
 # Outputting
