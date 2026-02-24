@@ -20,4 +20,7 @@ function Div(el)
   if el.classes:includes("jekyll-only") then
     return {}
   end
+  if el.classes:includes("pdf-only") then
+    return el.content
+  end
 end

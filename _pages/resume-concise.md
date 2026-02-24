@@ -12,16 +12,22 @@ documentclass: article
 ---
 
 <div class="jekyll-only">
-The PDF version can be found <a href="/assets/docs/adwait-dongare.pdf">here</a>
 
+<br>
+The PDF version can be found <a href="/assets/docs/adwait-dongare.pdf">here</a>
+<br><br>
 
 </div>
 
+<div class="pdf-only" markdown="1">
 # Adwait Dongare
+</div>
 
 Palo Alto, CA | email: FirstNameAbbreviated\+n\+LastName@gmail.com
 
+<div class="pdf-only" markdown="1">
 [adwait.dongare.com](https://adwait.dongare.com) | [https://www.linkedin.com/in/adwait-dongare-61006491](https://www.linkedin.com/in/adwait-dongare-61006491/)
+</div>
 
 ---
 
