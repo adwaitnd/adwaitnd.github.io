@@ -15,7 +15,7 @@ function Meta(meta)
   return meta
 end
 
--- TODO: add documentation
+-- While generating pdf using pandoc with lua filters, this function removes divs tagged jekyll-only  
 function Div(el)
   if el.classes:includes("jekyll-only") then
     return {}

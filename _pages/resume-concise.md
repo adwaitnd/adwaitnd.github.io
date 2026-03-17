@@ -33,14 +33,16 @@ Palo Alto, CA | email: FirstNameAbbreviated\+n\+LastName@gmail.com
 
 Works on systems using multi-modal sensor fusion (combining vision, wireless signals and motion) for spatial computing and understanding. Built production sensing systems for precise location awareness and environmental understanding running on 1.5B+ devices. Experience with many stages of spatial pipelines: system design, sensor fusion algorithms, specialized TinyML models, synthesis pipelines for 3D training data, and real-time spatial processing under physical constrains. PhD in ECE from CMU. 3 US patents, best paper awards (IPSN, RTAS), DARPA SubT finalist.
 
-Foundation models for the physical world require grounding beyond internet-scale text and image data. I am interested in the intersection of spatial computing and physical AI: building the sensor fusion pipelines, synthetic environment generators, and real-time deployment infrastructure that enable foundation models to understand and interact with the physical world. I am excited to build the next generation of physical AI - for robotics, mixed reality or automomous systems - using spatial understanding from diverse modalities that capture physical interactions, material properties, and environmental dynamics.
+Foundation models for the real world require grounding beyond internet-scale text and image data. I am interested in the intersection of spatial computing and physical AI: building the sensor fusion pipelines, synthetic environment generators, and real-time deployment infrastructure that enable foundation models to understand and interact with the physical world. I am excited to build the next generation of physical AI - for robotics, mixed reality or automomous systems - using spatial understanding from diverse modalities that capture physical interactions, material properties, and environmental dynamics.
 
 --- 
 
 ## Education
 
 **Carnegie Mellon University: Pittsburgh, PA** - PhD in Electrical and Computer Engineering, 2014-2020 \
-Thesis: Distributed signal processing and optimization for wireless sensor networks. Advised by Prof. Anthony Rowe. Research focused on multi-node coordination, real-time systems, and physical layer algorithms.
+Thesis: Distributed signal processing and optimization for wireless sensor networks. \
+Advisor: Prof. Anthony Rowe \
+Research focused on multi-node coordination, real-time systems, and physical layer algorithms.
 
 **Indian Institute of Technology Bombay: Mumbai, India** - BTech in Engineering Physics with minor in Electrical Engineering, 2010-2014
 
