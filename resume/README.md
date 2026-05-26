@@ -2,7 +2,9 @@
 
 ## Source Files
 - `_pages/resume.md` - Detailed resume version
-- `_pages/resume-concise.md` - Concise resume version
+- `_pages/resume-concise.md` - General web introduction
+- `_pages/resume-perception.md` - Perception lead application resume
+- `_pages/resume-robotics.md` - Robotics-focused application resume
 
 ## Generating Outputs
 
@@ -18,9 +20,17 @@ bundle exec jekyll serve
 Both versions use identical formatting settings (defined in YAML front matter):
 
 ```bash
-# Quick method using the script
+# Quick method using the script. By default, generated PDFs keep obfuscated
+# contact placeholders and are safe for public web publishing.
 ./resume/generate-pdf.sh concise resume-concise.pdf
+./resume/generate-pdf.sh perception resume-perception.pdf
+./resume/generate-pdf.sh robotics resume-robotics.pdf
 ./resume/generate-pdf.sh detailed resume-detailed.pdf
+
+# Private PDFs for applications can replace the obfuscated contact text with
+# real contact information from resume/metadata-private.yaml.
+./resume/generate-pdf.sh --real-contact perception adwait-dongare-perception.pdf
+./resume/generate-pdf.sh --real-contact robotics adwait-dongare-robotics.pdf
 
 # Or manually with pandoc:
 # Detailed PDF
@@ -38,6 +48,14 @@ pandoc _pages/resume-concise.md \
   --lua-filter=resume/title-filter.lua \
   --pdf-engine=xelatex \
   -o resume-concise.pdf
+
+# Perception / robotics variants use the same filters:
+pandoc _pages/resume-perception.md \
+  --metadata-file=resume/metadata-private.yaml \
+  --lua-filter=resume/contact-filter.lua \
+  --lua-filter=resume/title-filter.lua \
+  --pdf-engine=xelatex \
+  -o resume-perception.pdf
 ```
 
 **One-time setup:** Edit `resume/metadata-private.yaml` with your real contact information (this file is NOT in git). See "Private Contact Information" section below.
@@ -84,5 +102,4 @@ Formatting is controlled via YAML front matter in each resume file:
 - `documentclass: article` - Document class
 
 Edit these values in the YAML section of each file to customize appearance.
-
 
